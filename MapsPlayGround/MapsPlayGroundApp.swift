@@ -11,7 +11,7 @@ import SwiftUI
 struct MapsPlayGroundApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MapStyleSample()
         }
     }
 }
